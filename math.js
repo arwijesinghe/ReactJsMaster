@@ -1,0 +1,1 @@
+export let message={name:"ASA", Age:"45"};
